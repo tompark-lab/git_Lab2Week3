@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 1 line
 Second line
->>>>>>> ff6210b (First commit from new_branch)
+3 line
+>>>>>>> Stashed changes
