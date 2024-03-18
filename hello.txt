@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 1 line
-2 line
+Second line
+>>>>>>> ff6210b (First commit from new_branch)
